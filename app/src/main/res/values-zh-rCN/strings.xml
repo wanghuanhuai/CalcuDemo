@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">口算测试</string>
+    <string name="title_message">口算测试</string>
+    <string name="title_button">开始测试</string>
+    <string name="best_scope_message">最高分:%d</string>
+    <string name="buttonClear">清除</string>
+    <string name="buttonSubmit">确定</string>
+    <string name="current_scope">当前分:%d</string>
+    <string name="user_answer">你的答案:</string>
+    <string name="win_image_info">赢了！</string>
+    <string name="lose_image_info">输了！</string>
+    <string name="win_message">挑战成功！</string>
+    <string name="lose_message">挑战失败！</string>
+    <string name="win_scope_message">新的记录分:%d</string>
+    <string name="lose_scope_message">你的得分:%d</string>
+    <string name="result_button_message">返回</string>
+    <string name="dialog_title_info">您确定放弃？</string>
+    <string name="dialog_submit">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="nav_title_welcome">欢迎━(*｀∀´*)ノ亻!</string>
+    <string name="nav_title_Testing">测试中</string>
+    <string name="nav_title_Win">挑战成功</string>
+    <string name="nav_title_Lose">挑战失败</string>
+</resources>

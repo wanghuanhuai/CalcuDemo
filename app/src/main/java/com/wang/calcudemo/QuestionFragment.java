@@ -71,6 +71,7 @@ public class QuestionFragment extends Fragment {
         final MyViewModel myViewModel=  new ViewModelProvider(requireActivity()).get(MyViewModel.class);
         myViewModel.generatorQuestion();
         myViewModel.isWin=false;
+        myViewModel.getCurrentScope().setValue(0);
         final FragmentQuestionBinding binding;
         binding = DataBindingUtil.inflate(inflater,R.layout.fragment_question, container, false);
         binding.setData(myViewModel);
